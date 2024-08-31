@@ -1,6 +1,5 @@
 # Rusty
-Learning Rust.  Migration to Github.
-Testing out signing with git config
+Learning Rust.  Working with patterns and rus basics
 
 # Docs
 Rust Docs
