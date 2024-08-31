@@ -1,5 +1,5 @@
 # Rusty
-Learning Rust.
+Learning Rust.  Migration to Github.
 
 # Docs
 Rust Docs
